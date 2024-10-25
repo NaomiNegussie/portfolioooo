@@ -6,7 +6,7 @@ const Contact = () => {
     <div>
       <Navbar />
       <h1>Contact Me</h1>
-      <p>You can reach me at: kamuyakanyi11@gmail.com</p>
+      <p>Feel free to contact me at: naomi.negussie@uni.minerva.edu</p>
       <Footer />
     </div>
   );

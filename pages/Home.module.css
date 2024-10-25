@@ -13,10 +13,10 @@
 .image {
   margin-left: 20px; /* Space between text and image */
   border-radius: 10px; /* Rounded corners for the image */
-  box-shadow: 0 0 10px rgba(0, 255, 204, 0.5); /* Glow effect */
+  box-shadow: 0 0 10px rgba(255, 165, 0, 0.5); /* Orange glow effect */
 }
 
 .highlight {
-  color: #00ffcc; /* Highlight color */
+  color: #ff7f50; /* Coral highlight color */
   font-weight: bold; /* Make the text bold */
 }

@@ -10,7 +10,7 @@ const Home = () => {
       <div className={styles.container}>
         <div className={styles.text}>
           <h1>Welcome to My Portfolio</h1>
-          <p>Hi, I’m <span className={styles.highlight}>Mark Kamuya</span>, a passionate <span className={styles.highlight}>backend developer</span> with a keen interest in <span className={styles.highlight}>Software Development</span>. I love leveraging technology to create impactful solutions that make life better.</p>
+          <p>Hi, I’m <span className={styles.highlight}>Naomi Negussie</span>, a dedicated <span className={styles.highlight}>Software developer</span> with a keen interest in <span className={styles.highlight}>Software Development</span>. I enjoy harnessing technology to craft meaningful solutions that enhance everyday life.</p>
         </div>
         <Image 
           src="/images/Mark's LinkedIn Pic.jpg" // Ensure the path is correct

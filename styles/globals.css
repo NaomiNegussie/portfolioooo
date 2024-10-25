@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto Mono', monospace; /* Techy font */
-  background: linear-gradient(135deg, #0a0a0a, #1c1c1c); /* Gradient background */
-  color: #ffffff; /* White text */
+  background: linear-gradient(135deg, #2a2a2a, #3b3b3b); /* Darker gray gradient background */
+  color: #e0e0e0; /* Light gray text for consistency */
   margin: 0;
   padding: 0;
   height: 100%;
@@ -9,25 +9,26 @@ body {
 
 h1 {
   font-size: 2.5em; /* Larger heading */
-  color: #00ffcc; /* Teal color for tech feel */
+  color: #ff6347; /* Tomato color for a vibrant look */
 }
 
 h2, h3 {
-  color: #333; /* Darker color for subheadings */
+  color: #ffa500; /* Orange for subheadings */
 }
 
 p {
   font-size: 1.2em; /* Slightly larger paragraph text */
   line-height: 1.6; /* More spacing for readability */
+  color: #f0f0f0; /* Lighter gray for paragraph text */
 }
 
 nav {
-  background-color: #333; /* Dark background for the navbar */
+  background-color: #444; /* Darker gray background for the navbar */
   padding: 1rem;
 }
 
 nav a {
-  color: white; /* White text for links */
+  color: #e0e0e0; /* Light gray text for links */
   margin: 0 1rem;
   text-decoration: none; /* Remove underline from links */
 }
@@ -39,6 +40,6 @@ nav a:hover {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #333; /* Dark background for footer */
-  color: white; /* White text for footer */
+  background-color: #444; /* Darker gray background for footer */
+  color: #e0e0e0; /* Light gray text for footer */
 }

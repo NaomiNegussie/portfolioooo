@@ -9,17 +9,10 @@ const Projects = () => {
       <h1>My Projects</h1>
       
       <ProjectCard 
-        title="Water For Her" 
-        description="Developed a mobile application to help women in Arid and Semi-Arid Lands efficiently locate nearby water sources, saving time and effort in water collection."
-        technologies="Python, GeoJSON, NASA S.W.O.T dataset"
-        link="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/gaiax/?tab=project" 
-      />
-      
-      <ProjectCard 
-        title="SnapShop" 
-        description="Co-founded a mobile platform to help Minerva University students find the cheapest products in San Francisco, promoting financial savings."
-        technologies="Python, PostgreSQL, Flask, Pandas"
-        link="https://github.com/markkamuya/applicationalee"
+        title="Fun Calculator" 
+        description="Co-developed an interactive calculator aimed at engaging high school students in mathematics. To enhance user engagement and visual appeal, I incorporated emoji reactions throughout the application. The project utilized JavaScript for functionality and interactivity, HTML for structure and layout, and CSS for styling and design."
+        technologies="Javascript"
+        link="https://github.com/NaomiNegussie/portfolioooo" 
       />
       
       <Footer />

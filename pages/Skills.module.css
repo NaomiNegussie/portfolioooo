@@ -2,15 +2,16 @@
   padding: 20px;
   max-width: 800px;
   margin: 0 auto; /* Center the content */
-  color: #ffffff; /* White text for better contrast */
+  color: #e0e0e0; /* Light gray text for a softer contrast */
 }
 
 .title {
-  color: #00ffcc; /* Teal color for tech feel */
+  color: #ff6347; /* Tomato color for a vibrant look */
 }
 
 .subtitle {
   margin-top: 20px;
+  color: #ffa500; /* Orange for the subtitle */
 }
 
 .list {
@@ -20,4 +21,5 @@
 
 .listItem {
   margin: 5px 0; /* Space between list items */
+  color: #f0f0f0; /* Lighter gray for list items */
 }
