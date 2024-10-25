@@ -1,0 +1,44 @@
+body {
+  font-family: 'Roboto Mono', monospace; /* Techy font */
+  background: linear-gradient(135deg, #0a0a0a, #1c1c1c); /* Gradient background */
+  color: #ffffff; /* White text */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+h1 {
+  font-size: 2.5em; /* Larger heading */
+  color: #00ffcc; /* Teal color for tech feel */
+}
+
+h2, h3 {
+  color: #333; /* Darker color for subheadings */
+}
+
+p {
+  font-size: 1.2em; /* Slightly larger paragraph text */
+  line-height: 1.6; /* More spacing for readability */
+}
+
+nav {
+  background-color: #333; /* Dark background for the navbar */
+  padding: 1rem;
+}
+
+nav a {
+  color: white; /* White text for links */
+  margin: 0 1rem;
+  text-decoration: none; /* Remove underline from links */
+}
+
+nav a:hover {
+  text-decoration: underline; /* Underline links on hover */
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #333; /* Dark background for footer */
+  color: white; /* White text for footer */
+}

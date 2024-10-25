@@ -1,0 +1,22 @@
+.container {
+  display: flex; /* Use flexbox to arrange items side by side */
+  align-items: flex-start; /* Align items to the top */
+  justify-content: space-between; 
+  padding: 40px; /* More padding for a spacious feel */
+}
+
+.text {
+  flex: 1; /* Allow text to take available space */
+  max-width: 600px; /* Limit text width for better readability */
+}
+
+.image {
+  margin-left: 20px; /* Space between text and image */
+  border-radius: 10px; /* Rounded corners for the image */
+  box-shadow: 0 0 10px rgba(0, 255, 204, 0.5); /* Glow effect */
+}
+
+.highlight {
+  color: #00ffcc; /* Highlight color */
+  font-weight: bold; /* Make the text bold */
+}

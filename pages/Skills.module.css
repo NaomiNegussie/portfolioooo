@@ -1,0 +1,23 @@
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto; /* Center the content */
+  color: #ffffff; /* White text for better contrast */
+}
+
+.title {
+  color: #00ffcc; /* Teal color for tech feel */
+}
+
+.subtitle {
+  margin-top: 20px;
+}
+
+.list {
+  list-style-type: none; /* Remove default bullets */
+  padding: 0;
+}
+
+.listItem {
+  margin: 5px 0; /* Space between list items */
+}
