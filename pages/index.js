@@ -13,8 +13,8 @@ const Home = () => {
           <p>Hi, I’m <span className={styles.highlight}>Naomi Negussie</span>, a dedicated <span className={styles.highlight}>Software developer</span> with a keen interest in <span className={styles.highlight}>Software Development</span>. I enjoy harnessing technology to craft meaningful solutions that enhance everyday life.</p>
         </div>
         <Image 
-          src="/images/Mark's LinkedIn Pic.jpg" // Ensure the path is correct
-          alt="Mark Kamuya"
+          src="/images/Naomi's LinkedIn Pic.jpg" // Ensure the path is correct
+          alt="Naomi Negussie"
           width={300}
           height={300}
           className={styles.image}
